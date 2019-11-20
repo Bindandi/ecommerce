@@ -1,0 +1,12 @@
+﻿.card-categoria {
+    width: 100%;
+    margin-top: 10px;
+    color:black;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #f5f5f5;
+    
+}
+
+.card-categoria a{
+    padding:10px;
+}

@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/View/Usuario/style.css" rel="stylesheet" />
+
+
+<div class="d-flex justify-content-center">
+    <form class="formulario_cad">
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Usuario</label>
+                <input type="text" class="form-control" id="inpUsuario" placeholder="Usuario">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputPassword4">Senha</label>
+                <input type="password" class="form-control" id="inpSenha" placeholder="Senha">
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label for="inputEmail4">Nome</label>
+                <input type="text" class="form-control" id="inpNome" placeholder="Nome">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="inputPassword4">CPF</label>
+                <input type="text" class="form-control" id="inpCPF" placeholder="CPF">
+            </div>
+        </div>
+        <div class="form-row justify-content-center">
+            <input id="btnCadastrar" type="button" class="btn btn-primary" value="Finalizar Cadastro">
+        </div>
+    </form>
+</div>
+
+<script src="~/js/View/Usuario/siteUsuario.js"></script>
+
+

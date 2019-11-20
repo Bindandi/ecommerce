@@ -1,0 +1,11 @@
+﻿#btnSair {
+    display: none;
+}
+
+#btnEntrar {
+    display: flex;
+}
+
+.lbl-link:hover{
+    color: black !important;
+}

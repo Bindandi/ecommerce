@@ -1,0 +1,62 @@
+﻿.loginAdm{
+    width: 50%;
+    padding:40px;
+
+}
+
+h2{
+    text-align:center;
+    
+}
+
+#btn-sairAdm {
+    display: flex;
+}
+
+#admLogado{
+    display: none;
+}
+
+#containner_tabela {
+    width: 100%;
+    height: 600px !important;
+    overflow: auto;
+}
+
+#tabela {
+}
+
+.btn-outline-info:hover {
+    color: white !important;
+}
+
+.title_busca {
+    text-align: center;
+    width: 100%;
+}
+
+#containner-busca {
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 8px 15px #333;
+}
+
+th {
+    position: sticky;
+    top: 0;
+    background: #ffa45c;
+    color: white;
+}
+
+#btnFind {
+    height: 100%;
+    color: #ffa45c !important;
+    border-color: #ffa45c !important;
+}
+
+#btnFind:hover {
+    background-color: #ffa45c !important;
+    color:#FFFFFF !important;
+}
+
+

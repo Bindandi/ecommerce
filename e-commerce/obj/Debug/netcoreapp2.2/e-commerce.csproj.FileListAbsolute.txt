@@ -1,0 +1,331 @@
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.deps.json
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.json
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.dll
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cache
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.input.cache
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.output.cache
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorCoreGenerate.cache
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Comprar\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Contato\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Loja\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cache
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CopyComplete
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Login.g.cshtml.cs
+C:\Users\Aluno\source\repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.deps.json
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.json
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.dev.json
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.dll
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csprojAssemblyReference.cache
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cache
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfoInputs.cache
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfo.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.input.cache
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.output.cache
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorCoreGenerate.cache
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Login.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Comprar\Index.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Contato\Index.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Loja\Index.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Index.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cache
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cs
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Aluno.FIPP\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CopyComplete
+C:\Users\Aluno\Source\Repos\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csprojAssemblyReference.cache
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CoreCompileInputs.cache
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cache
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfoInputs.cache
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfo.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.dll
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.pdb
+D:\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.deps.json
+D:\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.json
+D:\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.dev.json
+D:\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.dll
+D:\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.pdb
+D:\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.dll
+D:\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.pdb
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.input.cache
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.output.cache
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorCoreGenerate.cache
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Login.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Comprar\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Contato\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Loja\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cache
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cs
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.Views.pdb
+D:\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CopyComplete
+D:\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.deps.json
+D:\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.json
+D:\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.dev.json
+D:\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.dll
+D:\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.pdb
+D:\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.dll
+D:\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.pdb
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csprojAssemblyReference.cache
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CoreCompileInputs.cache
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cache
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfoInputs.cache
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfo.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.input.cache
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.output.cache
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorCoreGenerate.cache
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Login.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Comprar\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Contato\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Loja\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Index.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cache
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cs
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.Views.pdb
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.dll
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.pdb
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CopyComplete
+D:\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\AdcProduto.g.cshtml.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.deps.json
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.json
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.dev.json
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.dll
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csprojAssemblyReference.cache
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cache
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfoInputs.cache
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfo.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.input.cache
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.output.cache
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorCoreGenerate.cache
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Comprar\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Loja\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\AdcProduto.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cache
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cs
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Julio Bindandi\Downloads\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CopyComplete
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csprojAssemblyReference.cache
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cache
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfoInputs.cache
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfo.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.deps.json
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.json
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.dev.json
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.dll
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.input.cache
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.output.cache
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorCoreGenerate.cache
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Login.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Comprar\Index.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Contato\Index.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Loja\Index.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\AdcProduto.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\CatalogoProduto.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Index.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cache
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cs
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Julio\Desktop\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CopyComplete
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.deps.json
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.json
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.dll
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cache
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.input.cache
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.output.cache
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorCoreGenerate.cache
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Login.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Comprar\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Contato\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Loja\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\AdcProduto.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\CatalogoProduto.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Index.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cache
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cs
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Aluno\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CopyComplete
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.deps.json
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.json
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.runtimeconfig.dev.json
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.dll
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\bin\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csprojAssemblyReference.cache
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cache
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorAssemblyInfo.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfoInputs.cache
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.AssemblyInfo.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.input.cache
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.TagHelpers.output.cache
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorCoreGenerate.cache
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Admin\Login.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Carrinho\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Comprar\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Loja\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\AdcProduto.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\CatalogoProduto.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Produto\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Sobre\Index.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\Usuario\Cadastrar.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cache
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.RazorTargetAssemblyInfo.cs
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.Views.pdb
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.dll
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.pdb
+C:\Users\Julio Bindandi\Desktop\e-commerce\e-commerce\e-commerce\e-commerce\obj\Debug\netcoreapp2.2\e-commerce.csproj.CopyComplete

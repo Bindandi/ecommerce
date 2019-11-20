@@ -1,0 +1,55 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/View/Admin/style.css" rel="stylesheet" />
+<link href="~/css/Views/Aluno/index.css" rel="stylesheet" />
+<div class="d-flex justify-content-center">
+    <div class="p-2 bd-highlight" id="containner-busca">
+        <div class="d-flex align-items-start flex-column bd-highlight mb-3">
+            
+            <div class="p-2 bd-highlight">
+                <div class="d-flex justify-content-center">
+                    <div class="p-2 bd-highlight"><input type="text" id="inpFind" class="form-control" placeholder="Digite o nome aqui..." /></div>
+                    <div class="p-2 bd-highlight"><input type="button" class="btn btn-outline-info"  id="btnFind" value="Pesquisar" /></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<div class="d-flex justify-content-center">
+    <div class="p-2 bd-highlight" id="containner_tabela">
+        <table class="table table-hover" id="tabela">
+            <thead>
+                <tr>
+                    <th>
+                        <input type="checkbox" id="checkMestre" />
+                    </th>
+
+                    <th>
+                        Nome
+                    </th>
+
+                    <th>
+                        CPF
+                    </th>
+                    <th>
+                        Usuario
+                    </th>
+
+                    <th>
+                        Senha
+                    </th>
+                </tr>
+            </thead>
+            <tbody id="tbody_tabela">
+                <!--i ter for-->
+            </tbody>
+        </table>
+    </div>
+</div>
+<script src="~/js/View/Admin/siteAdmin.js"></script>
+

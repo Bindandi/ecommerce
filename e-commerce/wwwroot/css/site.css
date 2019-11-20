@@ -1,0 +1,53 @@
+﻿
+.btnHeader {
+    background: #ffa45c !important;
+    border-color: #ffa45c !important;
+    color: #FFFFFF !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.btnHeader:hover {
+    background: #FFFFFF !important;
+    color: #ffa45c !important;
+}
+
+.nav-item {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.ftco-navbar-light.scrolled .nav-item.cta > a {
+    color: !important;
+    background: #000000;
+    border: none !important;
+}
+
+.form-control {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-facebook {
+    color: white;
+    background-color: #3b5998;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.modal-title {
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+}
+
+#usuLogado{
+    display:none;
+}
+
+
+
